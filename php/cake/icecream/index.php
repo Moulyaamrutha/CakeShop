@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  
+
+<style>
+body {
+  background-image: url('bac.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+</style>
+
+
+
+
+<div class="header">
+  <a href="#default" class="logo">Online Cake Ordering System</a>
+  <div class="header-right">
+    <a class="active" href="http://localhost/cake/index.php">Home</a>
+
+  </div>
+</div>
+
+<div style="padding-left:20px">
+  <h1>Icecreams</h1>
+<link rel="stylesheet" href="styles.css">
+<div class="gallery">
+  <a href="cornetto.php">
+    <img src="cornetto.jpg" >
+  </a>
+  <div class="desc">cornetto</div>
+  <div class="desc"> 70</div>
+</div>
+
+<div class="gallery">
+  <a  href="dbc.php">
+    <img src="deathbychocolate.jfif" >
+  </a>
+  <div class="desc">deathbychocolate</div>
+  <div class="desc"> 625</div>
+</div>
+
+<div class="gallery">
+  <a href="cups.php">
+    <img src="cups.jfif" >
+  </a>
+  <div class="desc"> Royale Dark Fantasy </div>
+  <div class="desc"> 135</div>
+</div>
+
+<div class="gallery">
+  <a  href="magnum.php">
+    <img src="Magnum.jpg">
+  </a>
+  <div class="desc">Magnum</div>
+  <div class="desc"> 85</div>
+</div>
+
+<div class="gallery">
+  <a  href="soft.php">
+    <img src="soft.jpg" width="360" height="340">
+  </a>
+  <div class="desc">softicecream</div>
+  <div class="desc"> 99</div>
+</div>
+</body>
+</html>
